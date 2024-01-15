@@ -2,9 +2,10 @@
 
 Bienvenue sur GestionAir, l'application en console qui permet la gestion de vols de l'aéroport Grenoble Alpes Isère.
 
-Cette application a été développée en langage C en réponse aux besoins du Directeur de l'aéroport Grenoble Alpes Isère, tel que spécifié dans le cahier des charges du projet GESTION'AIR, SAE.S01.S02.2023.
+Cette application a été développée en langage C en réponse aux besoins du Directeur fictifde l'aéroport Grenoble Alpes Isère, tel que spécifié dans le cahier des charges du projet GESTION'AIR, SAE.S1.2023.
+Dans ce projet il y a aussi un fichier python où on peut faire une comparaison d'algorithme de tri.
 
-Client : Directeur de l'aéroport Grenoble Alpes Isère
+Client : Directeur fictif de l'aéroport Grenoble Alpes Isère
 
 
 ## **Ajouter les fichiers au git bash**
